@@ -1,1 +1,446 @@
-<mxfile host="app.diagrams.net" modified="2020-11-09T21:22:13.519Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="bb8WOu0G5Xq_q9eLn32Q" version="13.9.2" type="github"><diagram id="fHP_XiruUntlgkXvQMdY" name="Page-1">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</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-11T21:21:15.474Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="YwajeROgCFFCnms2IB3F" version="13.9.6" type="github">
+  <diagram id="fHP_XiruUntlgkXvQMdY" name="Page-1">
+    <mxGraphModel dx="1635" dy="870" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RUPlTRRaIyMCWwIFxWT2-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fElzgFdy_8NfuNJUxRSz-3" target="RUPlTRRaIyMCWwIFxWT2-96" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="546.25" y="90" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fElzgFdy_8NfuNJUxRSz-3" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Extension&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="355" y="10" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fElzgFdy_8NfuNJUxRSz-8" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Streamer way&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="100" y="190" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fElzgFdy_8NfuNJUxRSz-9" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Viewer way&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="560" y="190" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fElzgFdy_8NfuNJUxRSz-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fElzgFdy_8NfuNJUxRSz-13" target="fElzgFdy_8NfuNJUxRSz-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fElzgFdy_8NfuNJUxRSz-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fElzgFdy_8NfuNJUxRSz-13" target="fElzgFdy_8NfuNJUxRSz-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fElzgFdy_8NfuNJUxRSz-13" value="&lt;font style=&quot;font-size: 13px&quot;&gt;Connect his personnals musics accounts (Youtube, Spotify, Deezer) with API&#39;s&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="335" y="130" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RUPlTRRaIyMCWwIFxWT2-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fElzgFdy_8NfuNJUxRSz-27" target="RUPlTRRaIyMCWwIFxWT2-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RUPlTRRaIyMCWwIFxWT2-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fElzgFdy_8NfuNJUxRSz-27" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="850" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fElzgFdy_8NfuNJUxRSz-27" value="&lt;font style=&quot;font-size: 13px&quot;&gt;With a listener in extension, determine which page the user is on in their browser&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="530" y="290" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RUPlTRRaIyMCWwIFxWT2-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fElzgFdy_8NfuNJUxRSz-30" target="fElzgFdy_8NfuNJUxRSz-34" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RUPlTRRaIyMCWwIFxWT2-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fElzgFdy_8NfuNJUxRSz-30" target="fElzgFdy_8NfuNJUxRSz-35" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fElzgFdy_8NfuNJUxRSz-30" value="&lt;font style=&quot;font-size: 13px&quot;&gt;Call of our bdd/api with the streamer twitch&amp;nbsp;&lt;b&gt;&lt;font color=&quot;#4a4a4a&quot;&gt;username&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="500" y="450" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fElzgFdy_8NfuNJUxRSz-34" value="&lt;font style=&quot;font-size: 13px&quot;&gt;Username not found&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="401.25" y="530" width="247.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fElzgFdy_8NfuNJUxRSz-35" value="&lt;font style=&quot;font-size: 13px&quot;&gt;Username found&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="661.25" y="530" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RUPlTRRaIyMCWwIFxWT2-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="fElzgFdy_8NfuNJUxRSz-37" target="fElzgFdy_8NfuNJUxRSz-39" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fElzgFdy_8NfuNJUxRSz-37" value="&lt;font style=&quot;font-size: 13px&quot;&gt;Return an object &lt;/font&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;:&lt;br&gt;&lt;br&gt;&lt;b&gt;- Name of the song currently listening&lt;br&gt;- Artist of the song currently listening&lt;br&gt;- Total duration of the song currently listening&lt;br&gt;- Listening start time of the song currently listening&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="661.25" y="560" width="200" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="fElzgFdy_8NfuNJUxRSz-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fElzgFdy_8NfuNJUxRSz-39" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="461.25" y="790" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="461.25" y="755" />
+              <mxPoint x="461.25" y="790" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fElzgFdy_8NfuNJUxRSz-39" value="&lt;font style=&quot;font-size: 13px&quot;&gt;Accounts connections verification&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="491.25" y="740" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fElzgFdy_8NfuNJUxRSz-43" value="&lt;font style=&quot;font-size: 13px&quot;&gt;Spotify connected ?&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCFF99;" parent="1" vertex="1">
+          <mxGeometry x="400" y="800" width="131.25" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fElzgFdy_8NfuNJUxRSz-44" value="&lt;font style=&quot;font-size: 13px&quot;&gt;Youtube connected ?&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFCC;" parent="1" vertex="1">
+          <mxGeometry x="720" y="990" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fElzgFdy_8NfuNJUxRSz-46" value="&lt;font style=&quot;font-size: 13px&quot;&gt;Deezer connected ?&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCFFFF;" parent="1" vertex="1">
+          <mxGeometry x="560.31" y="900" width="130.62" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fElzgFdy_8NfuNJUxRSz-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fElzgFdy_8NfuNJUxRSz-70" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="426" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fElzgFdy_8NfuNJUxRSz-70" value="YES" style="ellipse;whiteSpace=wrap;html=1;fillColor=#CCFF99;" parent="1" vertex="1">
+          <mxGeometry x="401.25" y="840" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RUPlTRRaIyMCWwIFxWT2-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fElzgFdy_8NfuNJUxRSz-72" target="RUPlTRRaIyMCWwIFxWT2-23" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="745" y="1090" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fElzgFdy_8NfuNJUxRSz-72" value="YES" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFCC;" parent="1" vertex="1">
+          <mxGeometry x="720" y="1030" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RUPlTRRaIyMCWwIFxWT2-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fElzgFdy_8NfuNJUxRSz-73" target="fElzgFdy_8NfuNJUxRSz-46" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fElzgFdy_8NfuNJUxRSz-73" value="NO" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="481.25" y="840" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RUPlTRRaIyMCWwIFxWT2-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fElzgFdy_8NfuNJUxRSz-75" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="900" y="1045" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fElzgFdy_8NfuNJUxRSz-75" value="NO" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="810" y="1030" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RUPlTRRaIyMCWwIFxWT2-3" value="&lt;font style=&quot;font-size: 13px&quot;&gt;Return error&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="401.25" y="560" width="247.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RUPlTRRaIyMCWwIFxWT2-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="RUPlTRRaIyMCWwIFxWT2-11" target="fElzgFdy_8NfuNJUxRSz-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RUPlTRRaIyMCWwIFxWT2-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RUPlTRRaIyMCWwIFxWT2-11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="850" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RUPlTRRaIyMCWwIFxWT2-11" value="&lt;font style=&quot;font-size: 13px&quot;&gt;Twitch page is detected in browser and it&#39;s an user channel&lt;br&gt;Like this url : https://twitch.tv/&lt;b&gt;&lt;font color=&quot;#4a4a4a&quot;&gt;username&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="520" y="370" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RUPlTRRaIyMCWwIFxWT2-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="RUPlTRRaIyMCWwIFxWT2-19" target="RUPlTRRaIyMCWwIFxWT2-57" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="450" y="900" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RUPlTRRaIyMCWwIFxWT2-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RUPlTRRaIyMCWwIFxWT2-19" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="1238" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="413" y="1238" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RUPlTRRaIyMCWwIFxWT2-19" value="&lt;font style=&quot;font-size: 13px&quot;&gt;Call the Spotify API with object return before to make a search and try to find a music corresponding&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;" parent="1" vertex="1">
+          <mxGeometry x="320" y="930" width="185" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RUPlTRRaIyMCWwIFxWT2-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="RUPlTRRaIyMCWwIFxWT2-22" target="RUPlTRRaIyMCWwIFxWT2-65" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="610" y="990" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RUPlTRRaIyMCWwIFxWT2-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RUPlTRRaIyMCWwIFxWT2-22" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="575" y="1210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RUPlTRRaIyMCWwIFxWT2-22" value="&lt;font style=&quot;font-size: 13px&quot;&gt;Call the Deezer API with object return before&amp;nbsp;to make a search and try to find a music corresponding&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
+          <mxGeometry x="480" y="1020" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RUPlTRRaIyMCWwIFxWT2-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="RUPlTRRaIyMCWwIFxWT2-23" target="RUPlTRRaIyMCWwIFxWT2-70" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RUPlTRRaIyMCWwIFxWT2-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RUPlTRRaIyMCWwIFxWT2-23" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="710" y="1238" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="737" y="1238" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RUPlTRRaIyMCWwIFxWT2-23" value="&lt;font style=&quot;font-size: 13px&quot;&gt;Call the Youtube API with object return before&amp;nbsp;to make search and try to find a music corresponding&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d6b656;fillColor=#fff2cc;" parent="1" vertex="1">
+          <mxGeometry x="640.62" y="1120" width="191.88" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RUPlTRRaIyMCWwIFxWT2-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RUPlTRRaIyMCWwIFxWT2-34" target="fElzgFdy_8NfuNJUxRSz-44" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RUPlTRRaIyMCWwIFxWT2-34" value="NO" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="640.62" y="940" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RUPlTRRaIyMCWwIFxWT2-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RUPlTRRaIyMCWwIFxWT2-35" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="585" y="1010" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RUPlTRRaIyMCWwIFxWT2-35" value="YES" style="ellipse;whiteSpace=wrap;html=1;fillColor=#CCFFFF;" parent="1" vertex="1">
+          <mxGeometry x="560" y="940" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RUPlTRRaIyMCWwIFxWT2-47" value="&lt;span style=&quot;text-align: left&quot;&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;Redirect to home page w/ accounts connections&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#b85450;fillColor=#f8cecc;" parent="1" vertex="1">
+          <mxGeometry x="920" y="1030" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RUPlTRRaIyMCWwIFxWT2-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RUPlTRRaIyMCWwIFxWT2-53" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="575" y="1320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RUPlTRRaIyMCWwIFxWT2-53" value="With the &lt;b&gt;Start time of the song currently listening&lt;/b&gt; and&amp;nbsp;&lt;b&gt;Total duration of the song currently listening&lt;/b&gt;, calculate the elapsed time" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;gradientColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="450" y="1220" width="250" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RUPlTRRaIyMCWwIFxWT2-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RUPlTRRaIyMCWwIFxWT2-57" target="fElzgFdy_8NfuNJUxRSz-46" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RUPlTRRaIyMCWwIFxWT2-57" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Not find&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="470" y="890" width="55" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RUPlTRRaIyMCWwIFxWT2-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="RUPlTRRaIyMCWwIFxWT2-57" target="RUPlTRRaIyMCWwIFxWT2-57" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RUPlTRRaIyMCWwIFxWT2-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RUPlTRRaIyMCWwIFxWT2-65" target="fElzgFdy_8NfuNJUxRSz-44" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RUPlTRRaIyMCWwIFxWT2-65" value="Not find" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="635.62" y="980" width="55" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RUPlTRRaIyMCWwIFxWT2-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.065;entryY=0.975;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="RUPlTRRaIyMCWwIFxWT2-70" target="RUPlTRRaIyMCWwIFxWT2-47" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="935" y="1090" />
+              <mxPoint x="935" y="1090" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RUPlTRRaIyMCWwIFxWT2-70" value="Not find" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="890" y="1125" width="55" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RUPlTRRaIyMCWwIFxWT2-83" value="&lt;font style=&quot;font-size: 13px&quot;&gt;Display the embed (depending on the connected music account) with the song and start at the already elapsed timeline (calculated before)&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;gradientColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="425" y="1330" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RUPlTRRaIyMCWwIFxWT2-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="RUPlTRRaIyMCWwIFxWT2-96" target="fElzgFdy_8NfuNJUxRSz-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="663" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RUPlTRRaIyMCWwIFxWT2-96" value="&lt;font style=&quot;font-size: 13px&quot;&gt;Connect with Twitch (obligatory)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="307.5" y="80" width="205" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RUPlTRRaIyMCWwIFxWT2-114" value="&lt;span style=&quot;font-size: 13px&quot;&gt;Streamer is currently streaming ?&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 13px&quot;&gt;Determines if the streamer is currently in stream (with Twitch API) and retry every minutes.&lt;/span&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;gradientColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="50" y="290" width="260" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RUPlTRRaIyMCWwIFxWT2-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="RUPlTRRaIyMCWwIFxWT2-116" target="RUPlTRRaIyMCWwIFxWT2-142" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="177.5" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RUPlTRRaIyMCWwIFxWT2-116" value="&lt;span style=&quot;font-size: 13px&quot;&gt;Determines in real-time what song is being listened by the streamer with connected accounts (like discord display song in status profiles system)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;gradientColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="40" y="460" width="270" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RUPlTRRaIyMCWwIFxWT2-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.53;entryY=-0.025;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="RUPlTRRaIyMCWwIFxWT2-119" target="RUPlTRRaIyMCWwIFxWT2-116" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="85" y="445" />
+              <mxPoint x="183" y="445" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RUPlTRRaIyMCWwIFxWT2-119" value="YES" style="ellipse;whiteSpace=wrap;html=1;fillColor=#708C54;" parent="1" vertex="1">
+          <mxGeometry x="50" y="375" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RUPlTRRaIyMCWwIFxWT2-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RUPlTRRaIyMCWwIFxWT2-120" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RUPlTRRaIyMCWwIFxWT2-120" value="NO (retry)" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#b85450;fillColor=#FF6666;" parent="1" vertex="1">
+          <mxGeometry x="245" y="375" width="65" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RUPlTRRaIyMCWwIFxWT2-130" value="&lt;font style=&quot;font-size: 13px&quot;&gt;Store in bdd the song informations :&lt;br&gt;&lt;br&gt;&lt;b&gt;- Username Twitch&lt;/b&gt;&lt;br&gt;&lt;b&gt;- Name of the song&lt;br&gt;- Artist of the song&lt;br&gt;- Total duration of the song&lt;br&gt;- Listening start time of the song (current time)&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;gradientColor=#ffffff;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="35" y="720" width="290" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="RUPlTRRaIyMCWwIFxWT2-136" value="The viewer is added in bdd in a array of &quot;spectator of *username streamer*&quot;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientDirection=north;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="861.25" y="375" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RUPlTRRaIyMCWwIFxWT2-138" value="On change page detected, the viewer is deleted in bdd in the array of &quot;spectator of *username streamer*&quot;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="860" y="300" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RUPlTRRaIyMCWwIFxWT2-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="RUPlTRRaIyMCWwIFxWT2-140" target="fElzgFdy_8NfuNJUxRSz-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RUPlTRRaIyMCWwIFxWT2-140" value="&lt;div style=&quot;font-size: 13px&quot;&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;Sending to viewers (who are in the streamer&#39;s spectator&lt;/font&gt;&lt;span&gt;&amp;nbsp;array) that a new sound has been detected in streamer side and that a call must be made again from the start to synchronize the new sound&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="335" y="240" width="168.75" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="RUPlTRRaIyMCWwIFxWT2-142" value="&lt;span&gt;New song played detected, 2 steps :&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#666666;gradientColor=#b3b3b3;fillColor=#f5f5f5;" parent="1" vertex="1">
+          <mxGeometry x="30" y="580" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RUPlTRRaIyMCWwIFxWT2-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.224;entryY=-0.015;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="RUPlTRRaIyMCWwIFxWT2-148" target="RUPlTRRaIyMCWwIFxWT2-130" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RUPlTRRaIyMCWwIFxWT2-148" value="&lt;span&gt;Update the bdd with song informations&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#666666;gradientColor=#b3b3b3;fillColor=#f5f5f5;" parent="1" vertex="1">
+          <mxGeometry x="30" y="630" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RUPlTRRaIyMCWwIFxWT2-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.153;entryY=1.008;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="RUPlTRRaIyMCWwIFxWT2-149" target="RUPlTRRaIyMCWwIFxWT2-140" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RUPlTRRaIyMCWwIFxWT2-149" value="&lt;span&gt;Inform the viewer to synchronize the new song (with the twitch streamer username)&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#666666;gradientColor=#b3b3b3;fillColor=#f5f5f5;" parent="1" vertex="1">
+          <mxGeometry x="180" y="630" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="AywuZBrRRZ5mESvMRJsN-16" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AywuZBrRRZ5mESvMRJsN-1" target="AywuZBrRRZ5mESvMRJsN-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AywuZBrRRZ5mESvMRJsN-1" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 17px&quot;&gt;Streamer&lt;br&gt;(Robi)&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1800" y="260" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AywuZBrRRZ5mESvMRJsN-12" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AywuZBrRRZ5mESvMRJsN-2" target="AywuZBrRRZ5mESvMRJsN-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AywuZBrRRZ5mESvMRJsN-33" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.333;entryY=1.043;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AywuZBrRRZ5mESvMRJsN-2" target="AywuZBrRRZ5mESvMRJsN-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AywuZBrRRZ5mESvMRJsN-2" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 17px&quot;&gt;Viewer&lt;br&gt;(Carlos)&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="260" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AywuZBrRRZ5mESvMRJsN-14" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AywuZBrRRZ5mESvMRJsN-3" target="AywuZBrRRZ5mESvMRJsN-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AywuZBrRRZ5mESvMRJsN-3" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 21px&quot;&gt;Server&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1620" y="260" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AywuZBrRRZ5mESvMRJsN-10" value="&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;b&gt;Situation #1&lt;/b&gt;&lt;br&gt;Viewer has arrived in the live&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="80" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AywuZBrRRZ5mESvMRJsN-11" value="" style="rounded=0;whiteSpace=wrap;html=1;opacity=20;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="60" width="1100" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="AywuZBrRRZ5mESvMRJsN-18" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AywuZBrRRZ5mESvMRJsN-15" target="AywuZBrRRZ5mESvMRJsN-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AywuZBrRRZ5mESvMRJsN-15" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 21px&quot;&gt;Server&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1980" y="260" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AywuZBrRRZ5mESvMRJsN-17" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 17px&quot;&gt;Viewer (Carlos)&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2160" y="260" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AywuZBrRRZ5mESvMRJsN-19" value="&lt;font style=&quot;font-size: 13px&quot;&gt;Send a request with :&lt;b&gt;&lt;br&gt;The streamer name (Robi)&lt;br&gt;His name (Carlos)&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="350" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="AywuZBrRRZ5mESvMRJsN-21" value="&lt;font style=&quot;font-size: 13px&quot;&gt;Return a request to the server with :&lt;br&gt;&lt;b&gt;Streamer name (Robi)&lt;br&gt;Music title&lt;br&gt;Music artist&lt;br&gt;Music actual timeline&lt;br&gt;Viewer name (Carlos)&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1870" y="350" width="170" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="AywuZBrRRZ5mESvMRJsN-23" value="&lt;font style=&quot;font-size: 13px&quot;&gt;Send the lastest request in &quot;Robi stream Carlos&quot; channel listener&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2060" y="350" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AywuZBrRRZ5mESvMRJsN-25" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AywuZBrRRZ5mESvMRJsN-24" target="AywuZBrRRZ5mESvMRJsN-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AywuZBrRRZ5mESvMRJsN-24" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Viewer Carlos just arrived on the Robi stream&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="270" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AywuZBrRRZ5mESvMRJsN-26" value="&lt;font&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;Send a request to Robi with :&lt;br&gt;&lt;/font&gt;&lt;b style=&quot;font-size: 13px&quot;&gt;Viewer &lt;font style=&quot;font-size: 13px&quot;&gt;name &lt;/font&gt;(Carlos)&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1690" y="350" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AywuZBrRRZ5mESvMRJsN-32" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Create a channel listener named &quot;Robi stream Carlos&quot;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="160" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AywuZBrRRZ5mESvMRJsN-59" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AywuZBrRRZ5mESvMRJsN-35" target="AywuZBrRRZ5mESvMRJsN-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AywuZBrRRZ5mESvMRJsN-35" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 17px&quot;&gt;Streamer&lt;br&gt;(Robi)&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="750" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AywuZBrRRZ5mESvMRJsN-61" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AywuZBrRRZ5mESvMRJsN-40" target="AywuZBrRRZ5mESvMRJsN-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AywuZBrRRZ5mESvMRJsN-40" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 21px&quot;&gt;Server&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1650" y="750" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AywuZBrRRZ5mESvMRJsN-50" value="&lt;font style=&quot;font-size: 13px&quot;&gt;Send to the server :&lt;br&gt;&lt;b&gt;Streamer name (Robi)&lt;br&gt;Music title&lt;br&gt;Music artist&lt;br&gt;Music actual timeline&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1550" y="840" width="140" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="AywuZBrRRZ5mESvMRJsN-52" value="&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;b&gt;Situation #2&lt;/b&gt;&lt;br&gt;Viewer is already on the stream and the music has been changed by the steamer&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1265" y="560" width="230" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="AywuZBrRRZ5mESvMRJsN-54" value="&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Important context&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Assuming in this situation that all viewers on the streamer&#39;s channel are connected to a global channel listener called &quot;*streamername* channel&quot;&amp;nbsp;&lt;/font&gt;when they arrived on the stream&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="560" width="280" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="AywuZBrRRZ5mESvMRJsN-58" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AywuZBrRRZ5mESvMRJsN-56" target="AywuZBrRRZ5mESvMRJsN-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AywuZBrRRZ5mESvMRJsN-56" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 15px&quot;&gt;Music change detected in streamer side&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="765" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AywuZBrRRZ5mESvMRJsN-65" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AywuZBrRRZ5mESvMRJsN-60">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2060" y="790" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2015" y="765" />
+              <mxPoint x="2015" y="790" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AywuZBrRRZ5mESvMRJsN-66" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AywuZBrRRZ5mESvMRJsN-60">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2000" y="845" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AywuZBrRRZ5mESvMRJsN-67" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AywuZBrRRZ5mESvMRJsN-60">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2000" y="675" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1870" y="705" />
+              <mxPoint x="2000" y="705" />
+              <mxPoint x="2000" y="685" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AywuZBrRRZ5mESvMRJsN-68" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AywuZBrRRZ5mESvMRJsN-60">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2070" y="705" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2070" y="775" />
+              <mxPoint x="2070" y="705" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AywuZBrRRZ5mESvMRJsN-69" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AywuZBrRRZ5mESvMRJsN-60">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1910" y="645" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AywuZBrRRZ5mESvMRJsN-60" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;&quot;Robi channel&quot; listener channel&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1830" y="762.5" width="160" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="AywuZBrRRZ5mESvMRJsN-62" value="&lt;font style=&quot;font-size: 13px&quot;&gt;Send to &quot;Robi channel&quot; listener :&amp;nbsp;&lt;b&gt;&lt;br&gt;Music title&lt;br&gt;Music artist&lt;br&gt;Music actual timeline&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1730" y="840" width="140" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="AywuZBrRRZ5mESvMRJsN-70" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Viewer&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1880" y="585" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AywuZBrRRZ5mESvMRJsN-71" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Viewer&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="2040" y="645" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AywuZBrRRZ5mESvMRJsN-72" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Viewer&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1970" y="610" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AywuZBrRRZ5mESvMRJsN-74" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Viewer&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1970" y="845" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AywuZBrRRZ5mESvMRJsN-75" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Viewer&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="2060" y="760" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AywuZBrRRZ5mESvMRJsN-76" value="" style="rounded=0;whiteSpace=wrap;html=1;opacity=20;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="540" width="960" height="470" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
