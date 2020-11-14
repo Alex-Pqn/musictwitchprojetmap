@@ -1,23 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2020-11-14T21:45:58.051Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="ze7RUum_xgQLDBAPszHr" version="13.9.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-14T23:04:40.492Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="-FZigF3VD4V7SQ6evZLR" version="13.9.8" type="github">
   <diagram id="fHP_XiruUntlgkXvQMdY" name="Page-1">
-    <mxGraphModel dx="849" dy="859" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1643" dy="1959" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="RUPlTRRaIyMCWwIFxWT2-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fElzgFdy_8NfuNJUxRSz-3" target="RUPlTRRaIyMCWwIFxWT2-96" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="546.25" y="90" as="targetPoint" />
+            <mxPoint x="546.25" y="-50" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fElzgFdy_8NfuNJUxRSz-3" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Extension&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="355" y="10" width="110" height="40" as="geometry" />
+          <mxGeometry x="355" y="-130" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fElzgFdy_8NfuNJUxRSz-8" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Streamer way&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="100" y="190" width="160" height="80" as="geometry" />
+          <mxGeometry x="100" y="50" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fElzgFdy_8NfuNJUxRSz-9" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Viewer way&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="560" y="190" width="170" height="80" as="geometry" />
+          <mxGeometry x="560" y="50" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fElzgFdy_8NfuNJUxRSz-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fElzgFdy_8NfuNJUxRSz-13" target="fElzgFdy_8NfuNJUxRSz-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -26,18 +26,18 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fElzgFdy_8NfuNJUxRSz-13" value="&lt;font style=&quot;font-size: 13px&quot;&gt;Connect his personnals musics accounts (Youtube, Spotify, Deezer) with API&#39;s&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="335" y="130" width="150" height="70" as="geometry" />
+          <mxGeometry x="335" y="-10" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RUPlTRRaIyMCWwIFxWT2-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fElzgFdy_8NfuNJUxRSz-27" target="RUPlTRRaIyMCWwIFxWT2-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RUPlTRRaIyMCWwIFxWT2-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fElzgFdy_8NfuNJUxRSz-27" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="850" y="320" as="targetPoint" />
+            <mxPoint x="850" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fElzgFdy_8NfuNJUxRSz-27" value="&lt;font style=&quot;font-size: 13px&quot;&gt;With a listener in extension, determine which page the user is on in their browser&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="530" y="290" width="250" height="60" as="geometry" />
+          <mxGeometry x="530" y="150" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RUPlTRRaIyMCWwIFxWT2-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fElzgFdy_8NfuNJUxRSz-30" target="fElzgFdy_8NfuNJUxRSz-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -46,162 +46,162 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fElzgFdy_8NfuNJUxRSz-30" value="&lt;font style=&quot;font-size: 13px&quot;&gt;Call of our bdd/api with the streamer twitch&amp;nbsp;&lt;b&gt;&lt;font color=&quot;#4a4a4a&quot;&gt;username&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="500" y="450" width="320" height="30" as="geometry" />
+          <mxGeometry x="500" y="310" width="320" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fElzgFdy_8NfuNJUxRSz-34" value="&lt;font style=&quot;font-size: 13px&quot;&gt;Username not found&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="401.25" y="530" width="247.5" height="30" as="geometry" />
+          <mxGeometry x="401.25" y="390" width="247.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fElzgFdy_8NfuNJUxRSz-35" value="&lt;font style=&quot;font-size: 13px&quot;&gt;Username found&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="661.25" y="530" width="200" height="30" as="geometry" />
+          <mxGeometry x="661.25" y="390" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RUPlTRRaIyMCWwIFxWT2-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="fElzgFdy_8NfuNJUxRSz-37" target="fElzgFdy_8NfuNJUxRSz-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fElzgFdy_8NfuNJUxRSz-37" value="&lt;font style=&quot;font-size: 13px&quot;&gt;Return an object &lt;/font&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;:&lt;br&gt;&lt;br&gt;&lt;b&gt;- Name of the song currently listening&lt;br&gt;- Artist of the song currently listening&lt;br&gt;- Total duration of the song currently listening&lt;br&gt;- Listening start time of the song currently listening&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="661.25" y="560" width="200" height="150" as="geometry" />
+          <mxGeometry x="661.25" y="420" width="200" height="150" as="geometry" />
         </mxCell>
         <mxCell id="fElzgFdy_8NfuNJUxRSz-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fElzgFdy_8NfuNJUxRSz-39" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="461.25" y="790" as="targetPoint" />
+            <mxPoint x="461.25" y="650" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="461.25" y="755" />
-              <mxPoint x="461.25" y="790" />
+              <mxPoint x="461.25" y="615" />
+              <mxPoint x="461.25" y="650" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="fElzgFdy_8NfuNJUxRSz-39" value="&lt;font style=&quot;font-size: 13px&quot;&gt;Accounts connections verification&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="491.25" y="740" width="250" height="30" as="geometry" />
+          <mxGeometry x="491.25" y="600" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fElzgFdy_8NfuNJUxRSz-43" value="&lt;font style=&quot;font-size: 13px&quot;&gt;Spotify connected ?&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCFF99;" parent="1" vertex="1">
-          <mxGeometry x="400" y="800" width="131.25" height="30" as="geometry" />
+          <mxGeometry x="400" y="660" width="131.25" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fElzgFdy_8NfuNJUxRSz-44" value="&lt;font style=&quot;font-size: 13px&quot;&gt;Youtube connected ?&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFCC;" parent="1" vertex="1">
-          <mxGeometry x="720" y="990" width="140" height="30" as="geometry" />
+          <mxGeometry x="720" y="850" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fElzgFdy_8NfuNJUxRSz-46" value="&lt;font style=&quot;font-size: 13px&quot;&gt;Deezer connected ?&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCFFFF;" parent="1" vertex="1">
-          <mxGeometry x="560.31" y="900" width="130.62" height="30" as="geometry" />
+          <mxGeometry x="560.31" y="760" width="130.62" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fElzgFdy_8NfuNJUxRSz-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fElzgFdy_8NfuNJUxRSz-70" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="426" y="920" as="targetPoint" />
+            <mxPoint x="426" y="780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fElzgFdy_8NfuNJUxRSz-70" value="YES" style="ellipse;whiteSpace=wrap;html=1;fillColor=#CCFF99;" parent="1" vertex="1">
-          <mxGeometry x="401.25" y="840" width="50" height="30" as="geometry" />
+          <mxGeometry x="401.25" y="700" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RUPlTRRaIyMCWwIFxWT2-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fElzgFdy_8NfuNJUxRSz-72" target="RUPlTRRaIyMCWwIFxWT2-23" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="745" y="1090" as="targetPoint" />
+            <mxPoint x="745" y="950" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fElzgFdy_8NfuNJUxRSz-72" value="YES" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFCC;" parent="1" vertex="1">
-          <mxGeometry x="720" y="1030" width="50" height="30" as="geometry" />
+          <mxGeometry x="720" y="890" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RUPlTRRaIyMCWwIFxWT2-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fElzgFdy_8NfuNJUxRSz-73" target="fElzgFdy_8NfuNJUxRSz-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fElzgFdy_8NfuNJUxRSz-73" value="NO" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="481.25" y="840" width="50" height="30" as="geometry" />
+          <mxGeometry x="481.25" y="700" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RUPlTRRaIyMCWwIFxWT2-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fElzgFdy_8NfuNJUxRSz-75" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="900" y="1045" as="targetPoint" />
+            <mxPoint x="900" y="905" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fElzgFdy_8NfuNJUxRSz-75" value="NO" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="810" y="1030" width="50" height="30" as="geometry" />
+          <mxGeometry x="810" y="890" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RUPlTRRaIyMCWwIFxWT2-3" value="&lt;font style=&quot;font-size: 13px&quot;&gt;Return error&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="401.25" y="560" width="247.5" height="30" as="geometry" />
+          <mxGeometry x="401.25" y="420" width="247.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RUPlTRRaIyMCWwIFxWT2-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="RUPlTRRaIyMCWwIFxWT2-11" target="fElzgFdy_8NfuNJUxRSz-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RUPlTRRaIyMCWwIFxWT2-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RUPlTRRaIyMCWwIFxWT2-11" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="850" y="400" as="targetPoint" />
+            <mxPoint x="850" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RUPlTRRaIyMCWwIFxWT2-11" value="&lt;font style=&quot;font-size: 13px&quot;&gt;Twitch page is detected in browser and it&#39;s an user channel&lt;br&gt;Like this url : https://twitch.tv/&lt;b&gt;&lt;font color=&quot;#4a4a4a&quot;&gt;username&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="520" y="370" width="270" height="60" as="geometry" />
+          <mxGeometry x="520" y="230" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RUPlTRRaIyMCWwIFxWT2-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="RUPlTRRaIyMCWwIFxWT2-19" target="RUPlTRRaIyMCWwIFxWT2-57" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="450" y="900" />
+              <mxPoint x="450" y="760" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="RUPlTRRaIyMCWwIFxWT2-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RUPlTRRaIyMCWwIFxWT2-19" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="440" y="1238" as="targetPoint" />
+            <mxPoint x="440" y="1098" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="413" y="1238" />
+              <mxPoint x="413" y="1098" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="RUPlTRRaIyMCWwIFxWT2-19" value="&lt;font style=&quot;font-size: 13px&quot;&gt;Call the Spotify API with object return before to make a search and try to find a music corresponding&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;" parent="1" vertex="1">
-          <mxGeometry x="320" y="930" width="185" height="80" as="geometry" />
+          <mxGeometry x="320" y="790" width="185" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RUPlTRRaIyMCWwIFxWT2-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="RUPlTRRaIyMCWwIFxWT2-22" target="RUPlTRRaIyMCWwIFxWT2-65" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="610" y="990" />
+              <mxPoint x="610" y="850" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="RUPlTRRaIyMCWwIFxWT2-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RUPlTRRaIyMCWwIFxWT2-22" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="575" y="1210" as="targetPoint" />
+            <mxPoint x="575" y="1070" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RUPlTRRaIyMCWwIFxWT2-22" value="&lt;font style=&quot;font-size: 13px&quot;&gt;Call the Deezer API with object return before&amp;nbsp;to make a search and try to find a music corresponding&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
-          <mxGeometry x="480" y="1020" width="190" height="80" as="geometry" />
+          <mxGeometry x="480" y="880" width="190" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RUPlTRRaIyMCWwIFxWT2-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="RUPlTRRaIyMCWwIFxWT2-23" target="RUPlTRRaIyMCWwIFxWT2-70" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RUPlTRRaIyMCWwIFxWT2-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RUPlTRRaIyMCWwIFxWT2-23" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="710" y="1238" as="targetPoint" />
+            <mxPoint x="710" y="1098" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="737" y="1238" />
+              <mxPoint x="737" y="1098" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="RUPlTRRaIyMCWwIFxWT2-23" value="&lt;font style=&quot;font-size: 13px&quot;&gt;Call the Youtube API with object return before&amp;nbsp;to make search and try to find a music corresponding&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d6b656;fillColor=#fff2cc;" parent="1" vertex="1">
-          <mxGeometry x="640.62" y="1120" width="191.88" height="80" as="geometry" />
+          <mxGeometry x="640.62" y="980" width="191.88" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RUPlTRRaIyMCWwIFxWT2-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RUPlTRRaIyMCWwIFxWT2-34" target="fElzgFdy_8NfuNJUxRSz-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RUPlTRRaIyMCWwIFxWT2-34" value="NO" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="640.62" y="940" width="50" height="30" as="geometry" />
+          <mxGeometry x="640.62" y="800" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RUPlTRRaIyMCWwIFxWT2-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RUPlTRRaIyMCWwIFxWT2-35" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="585" y="1010" as="targetPoint" />
+            <mxPoint x="585" y="870" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RUPlTRRaIyMCWwIFxWT2-35" value="YES" style="ellipse;whiteSpace=wrap;html=1;fillColor=#CCFFFF;" parent="1" vertex="1">
-          <mxGeometry x="560" y="940" width="50" height="30" as="geometry" />
+          <mxGeometry x="560" y="800" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RUPlTRRaIyMCWwIFxWT2-47" value="&lt;span style=&quot;text-align: left&quot;&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;Redirect to home page w/ accounts connections&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#b85450;fillColor=#f8cecc;" parent="1" vertex="1">
-          <mxGeometry x="920" y="1030" width="230" height="40" as="geometry" />
+          <mxGeometry x="920" y="890" width="230" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RUPlTRRaIyMCWwIFxWT2-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RUPlTRRaIyMCWwIFxWT2-53" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="575" y="1320" as="targetPoint" />
+            <mxPoint x="575" y="1180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RUPlTRRaIyMCWwIFxWT2-53" value="With the &lt;b&gt;Start time of the song currently listening&lt;/b&gt; and&amp;nbsp;&lt;b&gt;Total duration of the song currently listening&lt;/b&gt;, calculate the elapsed time" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;gradientColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="450" y="1220" width="250" height="70" as="geometry" />
+          <mxGeometry x="450" y="1080" width="250" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RUPlTRRaIyMCWwIFxWT2-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RUPlTRRaIyMCWwIFxWT2-57" target="fElzgFdy_8NfuNJUxRSz-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RUPlTRRaIyMCWwIFxWT2-57" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Not find&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="470" y="890" width="55" height="20" as="geometry" />
+          <mxGeometry x="470" y="750" width="55" height="20" as="geometry" />
         </mxCell>
         <mxCell id="RUPlTRRaIyMCWwIFxWT2-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="RUPlTRRaIyMCWwIFxWT2-57" target="RUPlTRRaIyMCWwIFxWT2-57" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -210,89 +210,89 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RUPlTRRaIyMCWwIFxWT2-65" value="Not find" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="635.62" y="980" width="55" height="20" as="geometry" />
+          <mxGeometry x="635.62" y="840" width="55" height="20" as="geometry" />
         </mxCell>
         <mxCell id="RUPlTRRaIyMCWwIFxWT2-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.065;entryY=0.975;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="RUPlTRRaIyMCWwIFxWT2-70" target="RUPlTRRaIyMCWwIFxWT2-47" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="935" y="1090" />
-              <mxPoint x="935" y="1090" />
+              <mxPoint x="935" y="950" />
+              <mxPoint x="935" y="950" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="RUPlTRRaIyMCWwIFxWT2-70" value="Not find" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="890" y="1125" width="55" height="20" as="geometry" />
+          <mxGeometry x="890" y="985" width="55" height="20" as="geometry" />
         </mxCell>
         <mxCell id="RUPlTRRaIyMCWwIFxWT2-83" value="&lt;font style=&quot;font-size: 13px&quot;&gt;Display the embed (depending on the connected music account) with the song and start at the already elapsed timeline (calculated before)&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;gradientColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="425" y="1330" width="300" height="60" as="geometry" />
+          <mxGeometry x="425" y="1190" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RUPlTRRaIyMCWwIFxWT2-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="RUPlTRRaIyMCWwIFxWT2-96" target="fElzgFdy_8NfuNJUxRSz-13" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="663" y="120" as="targetPoint" />
+            <mxPoint x="663" y="-20" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RUPlTRRaIyMCWwIFxWT2-96" value="&lt;font style=&quot;font-size: 13px&quot;&gt;Connect with Twitch (obligatory)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="307.5" y="80" width="205" height="30" as="geometry" />
+          <mxGeometry x="307.5" y="-60" width="205" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RUPlTRRaIyMCWwIFxWT2-114" value="&lt;span style=&quot;font-size: 13px&quot;&gt;Streamer is currently streaming ?&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 13px&quot;&gt;Determines if the streamer is currently in stream (with Twitch API) and retry every minutes.&lt;/span&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;gradientColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="50" y="290" width="260" height="70" as="geometry" />
+          <mxGeometry x="50" y="150" width="260" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RUPlTRRaIyMCWwIFxWT2-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="RUPlTRRaIyMCWwIFxWT2-116" target="RUPlTRRaIyMCWwIFxWT2-142" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="177.5" y="580" as="targetPoint" />
+            <mxPoint x="177.5" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RUPlTRRaIyMCWwIFxWT2-116" value="&lt;span style=&quot;font-size: 13px&quot;&gt;Determines in real-time what song is being listened by the streamer with connected accounts (like discord display song in status profiles system)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;gradientColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="40" y="460" width="270" height="80" as="geometry" />
+          <mxGeometry x="40" y="320" width="270" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RUPlTRRaIyMCWwIFxWT2-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.53;entryY=-0.025;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="RUPlTRRaIyMCWwIFxWT2-119" target="RUPlTRRaIyMCWwIFxWT2-116" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="85" y="445" />
-              <mxPoint x="183" y="445" />
+              <mxPoint x="85" y="305" />
+              <mxPoint x="183" y="305" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="RUPlTRRaIyMCWwIFxWT2-119" value="YES" style="ellipse;whiteSpace=wrap;html=1;fillColor=#708C54;" parent="1" vertex="1">
-          <mxGeometry x="50" y="375" width="70" height="50" as="geometry" />
+          <mxGeometry x="50" y="235" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="RUPlTRRaIyMCWwIFxWT2-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RUPlTRRaIyMCWwIFxWT2-120" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="190" y="370" as="targetPoint" />
+            <mxPoint x="190" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RUPlTRRaIyMCWwIFxWT2-120" value="NO (retry)" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#b85450;fillColor=#FF6666;" parent="1" vertex="1">
-          <mxGeometry x="245" y="375" width="65" height="50" as="geometry" />
+          <mxGeometry x="245" y="235" width="65" height="50" as="geometry" />
         </mxCell>
         <mxCell id="RUPlTRRaIyMCWwIFxWT2-130" value="&lt;font style=&quot;font-size: 13px&quot;&gt;Store in bdd the song informations :&lt;br&gt;&lt;br&gt;&lt;b&gt;- Username Twitch&lt;/b&gt;&lt;br&gt;&lt;b&gt;- Name of the song&lt;br&gt;- Artist of the song&lt;br&gt;- Total duration of the song&lt;br&gt;- Listening start time of the song (current time)&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;gradientColor=#ffffff;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="35" y="720" width="290" height="130" as="geometry" />
+          <mxGeometry x="35" y="580" width="290" height="130" as="geometry" />
         </mxCell>
         <mxCell id="RUPlTRRaIyMCWwIFxWT2-136" value="The viewer is added in bdd in a array of &quot;spectator of *username streamer*&quot;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientDirection=north;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="861.25" y="375" width="210" height="50" as="geometry" />
+          <mxGeometry x="861.25" y="235" width="210" height="50" as="geometry" />
         </mxCell>
         <mxCell id="RUPlTRRaIyMCWwIFxWT2-138" value="On change page detected, the viewer is deleted in bdd in the array of &quot;spectator of *username streamer*&quot;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="860" y="300" width="230" height="50" as="geometry" />
+          <mxGeometry x="860" y="160" width="230" height="50" as="geometry" />
         </mxCell>
         <mxCell id="RUPlTRRaIyMCWwIFxWT2-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="RUPlTRRaIyMCWwIFxWT2-140" target="fElzgFdy_8NfuNJUxRSz-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RUPlTRRaIyMCWwIFxWT2-140" value="&lt;div style=&quot;font-size: 13px&quot;&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;Sending to viewers (who are in the streamer&#39;s spectator&lt;/font&gt;&lt;span&gt;&amp;nbsp;array) that a new sound has been detected in streamer side and that a call must be made again from the start to synchronize the new sound&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="335" y="240" width="168.75" height="140" as="geometry" />
+          <mxGeometry x="335" y="100" width="168.75" height="140" as="geometry" />
         </mxCell>
         <mxCell id="RUPlTRRaIyMCWwIFxWT2-142" value="&lt;span&gt;New song played detected, 2 steps :&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#666666;gradientColor=#b3b3b3;fillColor=#f5f5f5;" parent="1" vertex="1">
-          <mxGeometry x="30" y="580" width="290" height="40" as="geometry" />
+          <mxGeometry x="30" y="440" width="290" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RUPlTRRaIyMCWwIFxWT2-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.224;entryY=-0.015;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="RUPlTRRaIyMCWwIFxWT2-148" target="RUPlTRRaIyMCWwIFxWT2-130" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RUPlTRRaIyMCWwIFxWT2-148" value="&lt;span&gt;Update the bdd with song informations&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#666666;gradientColor=#b3b3b3;fillColor=#f5f5f5;" parent="1" vertex="1">
-          <mxGeometry x="30" y="630" width="140" height="50" as="geometry" />
+          <mxGeometry x="30" y="490" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="RUPlTRRaIyMCWwIFxWT2-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.153;entryY=1.008;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="RUPlTRRaIyMCWwIFxWT2-149" target="RUPlTRRaIyMCWwIFxWT2-140" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RUPlTRRaIyMCWwIFxWT2-149" value="&lt;span&gt;Inform the viewer to synchronize the new song (with the twitch streamer username)&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#666666;gradientColor=#b3b3b3;fillColor=#f5f5f5;" parent="1" vertex="1">
-          <mxGeometry x="180" y="630" width="140" height="70" as="geometry" />
+          <mxGeometry x="180" y="490" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="AywuZBrRRZ5mESvMRJsN-16" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="AywuZBrRRZ5mESvMRJsN-1" target="AywuZBrRRZ5mESvMRJsN-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -440,15 +440,13 @@
         <mxCell id="AywuZBrRRZ5mESvMRJsN-76" value="" style="rounded=0;whiteSpace=wrap;html=1;opacity=20;" parent="1" vertex="1">
           <mxGeometry x="1200" y="540" width="960" height="470" as="geometry" />
         </mxCell>
-        <mxCell id="cT1v0p82_hHykwt6ooq_-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cT1v0p82_hHykwt6ooq_-2" target="cT1v0p82_hHykwt6ooq_-4">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="447" y="1700" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="_Lmz1EniNpuTVr8hItRH-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="cT1v0p82_hHykwt6ooq_-2" target="cT1v0p82_hHykwt6ooq_-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cT1v0p82_hHykwt6ooq_-2" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Presentation&lt;br&gt;local page&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;shadow=1;strokeColor=#9933FF;" vertex="1" parent="1">
-          <mxGeometry x="384.38" y="1560" width="125" height="110" as="geometry" />
+        <mxCell id="cT1v0p82_hHykwt6ooq_-2" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Presentation&lt;br&gt;local page&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;shadow=1;strokeColor=#9933FF;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="387.5" y="1480" width="125" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="cT1v0p82_hHykwt6ooq_-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cT1v0p82_hHykwt6ooq_-4" target="cT1v0p82_hHykwt6ooq_-5">
+        <mxCell id="cT1v0p82_hHykwt6ooq_-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" parent="1" source="cT1v0p82_hHykwt6ooq_-4" target="cT1v0p82_hHykwt6ooq_-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="447" y="2080" />
@@ -456,39 +454,78 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cT1v0p82_hHykwt6ooq_-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cT1v0p82_hHykwt6ooq_-4" target="cT1v0p82_hHykwt6ooq_-6">
+        <mxCell id="cT1v0p82_hHykwt6ooq_-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" parent="1" source="cT1v0p82_hHykwt6ooq_-4" target="cT1v0p82_hHykwt6ooq_-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="447" y="2080" />
+              <mxPoint x="198" y="2080" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cT1v0p82_hHykwt6ooq_-4" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Musics accounts&lt;br&gt;local page&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;shadow=1;strokeColor=#0000FF;" vertex="1" parent="1">
-          <mxGeometry x="376.88" y="1870" width="140" height="120" as="geometry" />
+        <mxCell id="cT1v0p82_hHykwt6ooq_-4" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Musics accounts&lt;br&gt;local page&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;shadow=1;strokeColor=#0000FF;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="380" y="1760" width="140" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="cT1v0p82_hHykwt6ooq_-5" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Viewer&lt;br&gt;site page&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
+        <mxCell id="cT1v0p82_hHykwt6ooq_-5" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Viewer&lt;br&gt;site page&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;strokeColor=#00FF00;" parent="1" vertex="1">
           <mxGeometry x="616.25" y="2130" width="125" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="cT1v0p82_hHykwt6ooq_-6" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Streamer&lt;br&gt;site page&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
+        <mxCell id="cT1v0p82_hHykwt6ooq_-6" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Streamer&lt;br&gt;site page&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;shadow=1;strokeWidth=2;strokeColor=#FF8000;" parent="1" vertex="1">
           <mxGeometry x="135" y="2130" width="125" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="cT1v0p82_hHykwt6ooq_-11" value="&lt;span style=&quot;color: rgb(32 , 33 , 36) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; text-align: left&quot;&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;Displayed only when the extension is started for the first time.&lt;br&gt;(work w/ localStorage)&lt;br&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;gradientColor=#ffffff;dashed=1;strokeColor=#9933FF;" vertex="1" parent="1">
-          <mxGeometry x="516.88" y="1500" width="204.38" height="100" as="geometry" />
+        <mxCell id="_Lmz1EniNpuTVr8hItRH-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1;" edge="1" parent="1" source="cT1v0p82_hHykwt6ooq_-11" target="cT1v0p82_hHykwt6ooq_-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cT1v0p82_hHykwt6ooq_-13" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Click button &quot;start&quot;&lt;/font&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;shadow=0;gradientColor=#ffffff;strokeColor=#9933FF;" vertex="1" parent="1">
-          <mxGeometry x="365.01" y="1690" width="163.75" height="40" as="geometry" />
+        <mxCell id="cT1v0p82_hHykwt6ooq_-11" value="&lt;span style=&quot;color: rgb(32 , 33 , 36) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; text-align: left&quot;&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;Displayed only when the extension is started for the first time.&lt;br&gt;(work w/ localStorage)&lt;br&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;gradientColor=#ffffff;dashed=1;strokeColor=#9933FF;dashPattern=1 1;" parent="1" vertex="1">
+          <mxGeometry x="557.81" y="1470" width="204.38" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="cT1v0p82_hHykwt6ooq_-31" value="&lt;span style=&quot;color: rgb(32 , 33 , 36) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; text-align: left&quot;&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;Displayed only when the extension is started for the first time.&lt;br&gt;(work w/ localStorage)&lt;br&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;gradientColor=#ffffff;dashed=1;strokeColor=#0000FF;" vertex="1" parent="1">
-          <mxGeometry x="509.38" y="1800" width="204.38" height="100" as="geometry" />
+        <mxCell id="_Lmz1EniNpuTVr8hItRH-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cT1v0p82_hHykwt6ooq_-31" target="cT1v0p82_hHykwt6ooq_-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cT1v0p82_hHykwt6ooq_-63" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Click button &quot;I am a streamer&quot;&lt;/font&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;shadow=0;gradientColor=#ffffff;strokeColor=#0000FF;" vertex="1" parent="1">
+        <mxCell id="cT1v0p82_hHykwt6ooq_-31" value="&lt;div&gt;&lt;font color=&quot;#202124&quot; face=&quot;arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;&lt;i&gt;Warnings for the viewer side:&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#202124&quot; face=&quot;arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;&lt;i&gt;&lt;br&gt;&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#202124&quot; face=&quot;arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;&lt;b&gt;#1:&lt;/b&gt;&amp;nbsp;The user must connect to the website of his music media for a session to be opened (with cookies) on his browser and for the embeds to be correctly displayed.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#202124&quot; face=&quot;arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#202124&quot; face=&quot;arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;&lt;b&gt;#2:&lt;/b&gt;&amp;nbsp;For Spotify, Deezer and Soundcloud it is necessary to have a paid account for the embed to display the music in full.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;gradientColor=#ffffff;dashed=1;strokeColor=#0000FF;dashPattern=1 4;" parent="1" vertex="1">
+          <mxGeometry x="563.13" y="1690" width="231.25" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="cT1v0p82_hHykwt6ooq_-63" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Click button &quot;I am a streamer&quot;&lt;/font&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;shadow=0;gradientColor=#ffffff;strokeColor=#0000FF;" parent="1" vertex="1">
           <mxGeometry x="216.88" y="2060" width="225" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cT1v0p82_hHykwt6ooq_-68" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Click button &quot;I am a viewer&quot;&lt;/font&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;shadow=0;gradientColor=#ffffff;strokeColor=#0000FF;" vertex="1" parent="1">
+        <mxCell id="cT1v0p82_hHykwt6ooq_-68" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Click button &quot;I am a viewer&quot;&lt;/font&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;shadow=0;gradientColor=#ffffff;strokeColor=#0000FF;" parent="1" vertex="1">
           <mxGeometry x="454.37999999999994" y="2060" width="206.87" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cT1v0p82_hHykwt6ooq_-70" value="&lt;span style=&quot;color: rgb(32 , 33 , 36) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; text-align: left&quot;&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;b&gt;Description page&lt;br&gt;&lt;br&gt;&lt;/b&gt;Presentation of extension features&lt;br&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;gradientColor=#ffffff;dashed=1;strokeColor=#9933FF;" vertex="1" parent="1">
-          <mxGeometry x="214.69" y="1500" width="162.19" height="110" as="geometry" />
+        <mxCell id="_Lmz1EniNpuTVr8hItRH-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.022;entryY=0.265;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cT1v0p82_hHykwt6ooq_-70" target="cT1v0p82_hHykwt6ooq_-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cT1v0p82_hHykwt6ooq_-70" value="&lt;span style=&quot;color: rgb(32 , 33 , 36) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; text-align: left&quot;&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;b&gt;Description page&lt;br&gt;&lt;br&gt;&lt;/b&gt;Presentation of extension features&lt;br&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;gradientColor=#ffffff;dashed=1;strokeColor=#9933FF;dashPattern=1 1;" parent="1" vertex="1">
+          <mxGeometry x="179.99999999999994" y="1450" width="162.19" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="_Lmz1EniNpuTVr8hItRH-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.002;entryY=0.382;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_Lmz1EniNpuTVr8hItRH-1" target="cT1v0p82_hHykwt6ooq_-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_Lmz1EniNpuTVr8hItRH-1" value="&lt;span&gt;&lt;font&gt;&lt;b style=&quot;color: rgb(32 , 33 , 36) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; font-size: 15px&quot;&gt;Description page&lt;br&gt;&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;font color=&quot;#202124&quot; face=&quot;arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;A page with the icons &quot;Spotify&quot;, &quot;Deezer&quot;, &quot;Youtube&quot; and &quot;Soundcloud&quot; which redirect to their respective login web pages.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#202124&quot; face=&quot;arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#202124&quot; face=&quot;arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;A mini-table with which music media are supported on the viewer and streamer sides.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#202124&quot; face=&quot;arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;(Spotify, Deezer, Soundcloud, Youtube for streamer and Deezer, Soundcloud, Youtube for viewer).&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#202124&quot; face=&quot;arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;font color=&quot;#202124&quot; face=&quot;arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;A button is available in a corner to go at &quot;Presentation page&quot;.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#202124&quot; face=&quot;arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;A button is available to got at &quot;Streamer&quot; page.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#202124&quot; face=&quot;arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;A button is available to got at &quot;Viewer&quot; page.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;gradientColor=#ffffff;dashed=1;strokeColor=#0000FF;align=center;dashPattern=1 2;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="1690" width="415" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="cT1v0p82_hHykwt6ooq_-13" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Click button &quot;start&quot;&lt;/font&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;shadow=0;gradientColor=#ffffff;strokeColor=#9933FF;" parent="1" vertex="1">
+          <mxGeometry x="367.5" y="1600" width="163.75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_Lmz1EniNpuTVr8hItRH-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;" edge="1" parent="1" source="_Lmz1EniNpuTVr8hItRH-17" target="cT1v0p82_hHykwt6ooq_-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="1420" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="450" y="1450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_Lmz1EniNpuTVr8hItRH-17" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAAecAAAFkCAYAAAAaKfMiAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAABQ1SURBVHhe7d09butGuAZgr8vNbe9CDlxkH2lSeRUBsoGzgQRIc9tURoogQMq0KXVFW7TJ0ZCc4Z8+Ss8DfEWO+DMkR99r0lL8dAIAQhHOABCMcAaAYIQzAARzFc6//vqrUkoppXaqnGw4AwDbE84AEIxwBoBghDMABCOcASAY4QwAwQhnAAhGOANAMMIZAIIRzgAQjHAGgGCEMwAEI5wBIBjhDADBCGcACEY4A0AwwhkAghHOABCMcAaAYIQzAAQjnAEgGOEMAMEIZwAIRjgDQDDCGQCCEc4AEIxwBoBghDMABCOcASAY4QwAwQhnAAhGOEOtt++nl+en09NTU8+n17fLvx/G2+n768vp+X38l3p+OX2/vArcnnCGSm+vz1+h1tTLsWLt+0tn7J062GHAXRPOD+nt9Pp55zdROvaVQ4fz22v/jrlTLjXEIZwf0vfTS6Y5Z+v59Rzly3zvhtl5e4fPgF7AHeuxdvqDxcv3y+Df3hZf5yXubo7AQsL5IVWE8wq3U/3HqH63eUv9cI5zLcwR6BPODykJ542fZ2q8cQhnOAbh/JBmhPP3l07zfDo9p+skv8tsXh764NFX5R8Jv71/Grr/+PXp/N8vr9/zj16b5T+XuzwSPf/b60t/G88v59cGn92+nVd5OT0nv4t/fn45vaYrpY+1h07fZQzp73iz22ytcizXJq9F5tcX1deh8Xb5JHi63vk85cZcNUe65+Zc2Wnbm6fnkO/u73vnur2vnHxqPbPBWeegZi7BAOH8kPpNruzOOf0QWT9Ye0320ujrw/ncLJMQuq5MoPfCsmmAydeEepVZ/+rY0krWSX5QuT59JcdxrtzXlxYfS15dOK9xHYare77qwrm//ey07V2bket2Pt7XdN9rnIPzelVzCQYI54c0J5zPklD6Wi9/R1MbztPLt5WEWmEofFZyvFefvs5Ub5WJcC4/jnOld6wLj2VITTjPvg7p/Bisr/Wq5sia4ZyrFc5B9VyCAcL5ISXhPFRXXSR/99xrSGnYnPUbXeZusZE03uaxeXc7748JO6/3hpYLtOau9LKBt+7jzPfqjqF/TP39fj2e7O0vafLjYzmfo86jzLfz6+m5X+9Ypk3+znnxdWgfX/fWSuZAEppnc+ZIb9+t3rUpCOfP4ztf63bZ2edgxlyCAcL5IRWGcyZo08bV/P5tqmGWNN6pgG/0ttPd0dWYrtfvh1K3aSc/cPQa6oCkyfeHMrSfjnS8qx3LtKlwXnQdxiTHla52k3AeOL7552DGXIIBwvkhzb1z/tBvpJ0qaWQDjXdwm0PV3VfStJ9zaTXStK/3nf/w0qfBcE6a88D5GF1u4bFMmQrnRdfhorm7bz5E1fshI6l0apXMkbXDeWB6LzoH1XMJBgjnhzTzd86tpEm2Vdbsco03CauSWjXQzudjaP/NJ2zTzZWG88h57Z2TMOG88DpUrJ+emjjhvPQcVM4lGCCcH9LCcE6aXFvZIDnbIpyb3+d9WiXQ3vpfq0mqd4oGm/zjhXP3OvSv83ilp+bI4dybi+8q5hIMEM4PaUk4jzWvfFBUh3PvTqTAyoGW/25rZ0yl4Tx4HCPLRQrnquuQzKlm292VJ4J1TjhXn5s54Vw7FxOTcwkGCOeHtCCc0+b32m+YuW2VNN6i5jxko0AbDLKRJt8/joH9jI33puG85Dr059TVuDcI5+u5lgTrrHBecg6GTZ13SAnnhzQ3nHPrTTTEs36za5riZYHuH1tIGufH14f6G2ruQj7+j1vJPhYF2sf4c1//6f9PKjoNdazJZ4/j8trZ9Veh1jyWaZMhMfs6JHOjc3d4fcxT4TwwR9J9NPv/XO48pt48vLz+tfLVsQ1O+9nnYMZcggHC+SGlTW6kuk2219g7TSltZtedt//6Z103tvxyaSVNd1GgFZ6L7jGNNvma48iM9dbhvOA6pAE7VlfBWDRH6vZxdW5Gr1vX3HMwYy7BAOH8kGaE8+gjxbSZpYExtL/MckVNMVlvhTvnr9cy1dw5XZZ+N9nky47j+oNEZzcP58Y61yFdtvta9px1Xv+qzBzJLvdRz6/dO+hk3eJwbsw5BzPmEgwQzg+p4s7gEs6Dd80Xb6/9xnd9R/jxGLC3zEv+gzFD35Nt/pjC+x8cSFc6b7vbsD8fiXb1Hq2moXJ5RJmck/YPFVxtrRdC520NdNv2OLrbbJYf/d7r0mOZ0LuO52s7FhTV16GRu87vj4WbbPz6t2wwls6RgeU+TlV3bn/s91N63gpScs5crJpLMEA4A0AwwhkAghHOABCMcAaAYIQzAAQjnAEgGOEMAMEIZwAIRjgDQDDCGQCCEc4AEIxwBoBghDMABCOcASAY4QwAwQhnAAhGOANAMMIZAIIRzgAQjHAGgGCEMwAEI5wBIBjhDADBCGcACEY4z/D09NQrAFiTcK6UC2MBDcCahHOFsRDeKqCb7U4VAPdFOBcoCcE5QdmuM1YlapYFID7hPKI29EqXr91uqS22CcD+hPOAuUHXBu9YbWXr7QOwD+GccfSAE9AAxyacE/cQbMIZ4NiEc8c9hZqABjgu4Xxxb2F2i+Np9llbAFwTzmf3GhJrH1c3VHM1x5J1c7rjmSrgPt3De/zhw/nem/SS42sneFtbWrqfOesu2R9we+17OFdH99DhfA8XsETNcd56ctfud42x3vJ4h7RjqinIzYuSOoqjjnuOhw3ne7+wqXRSD9WtlY5ji/Fusc3WlttutfvYej/EssZ1X7KN7rpb1yMJGc5bX4hHu8hH1M6BodrSWtvfa7w5t9ovx9edtyXFNsLeOW910U0mSixpPEvWXdstx9Lue+26Z49wjJR5qHA26anVNsuaimjrcaXnYMv97bGPPd3b8bCOhwlnE59HtzQA2vVzdSu3HkN3/90qUbMsjydsODfWmrjeAPCl5v3QBsgR3kPdsW415pLtp8sMFYy5+3D2JoBr3ZAYq6PLHdOSgr2EDufGkjeENxMARxQ+nBtzQlYwA3BUhwjnRk3YCmYAjuww4dwoCV3BDMDRHSqcG034jhUAHN3hwhkA7p1wBoBghDMABCOcASAY4QwAwQhnAAhGOANAMMIZAIIRzgAQjHAGVpX7P/eNVXS5MZcULCGcgSq5IOpWrbnrbaV7LEvGtcY2eFzCGRjVDZktg2br7U/Zav+3Pi6OSTgDWbcKlT332R7jHvvcaz/cB+EMN9QNh9La2l77GbL1vtvju8Uxdve9d3Eswhk2kGuOuao1Z51Sc8e0hS3GEen49tYe+57FMsIZFtq7Ma29/T3GPEc7rtrxpeu1xb5y16AtpglnmOHWjWaN/d5y/HO0450quAfCGSpECYDaMbTj7hYQl3Bmc7lgWFK3cMt9DykZU8RxA9OE84G1jXeobmnLcex1fFsew1q6Y8wVcEzC+WBqGu+ezbk7rr32u8V+9j4GgBzhHFQ3JLpVo3b5UumYttrPlDX3e8vjAEgJ5wl7N+w1Q2Ltsa85trUsHU/EYwIQzgX2aN5bhcSSbbZj2mpsa6kd2xGOCXhswrnAlo18j5Co2X47nq3HtLbuuKcKIDrhXGjNpr53UJTsZ8/xADBOOFdYGmC3CsB2v2MFQBzCudKcMBOAANQQzjOVhK1QBmAO4bxAG75DBQBzCGcACEY4A0AwwhkAghHOABCMcAaAYIQzAAQjnAEgGOEMAMEIZwAIRjgDQDDCGQCCEc4AEIxwBoBghDMABCOcASAY4QwAwQhnAAhGOANAMMIZAIIRzgAQjHAO7unp6lIA3FTTl5YU04TzATzKZE7fwFMF7Md7b1/C+QDu8c3QfaO3VaN2eaDOkvcnywnnAzj6GyN9k691PGttB/iy5nuU+YTzARztjdK+ubd+kx/tvLTS8zO3YC3mVTzC+SCiv2lu8eY+0jnp1lq22CaPx/yJSTgfRLQ3UDcYbjm2SOflluck0nlgH+l8W1LEI5wP4tZvou4b+ZbjSEUYT5Rz0o4jwli20D2+LeuWcuMZKu6bcD6QPd+QR2sEe48x+rmJPK65tZe99tc9tr32yXEI54PZ6g189Caxx5iPdn5uNc7ueUrrSNYcc/ccrLld7pdwPpjcm3yNOrotj+HI52ircbfnJFf3JneMtQW1hDN3Y+0meC+NtfY42uXHCtiWcOauLA2Oew2g7nFNFXB7wpm7UxMwggmISDhzl9LQHSqAiIQzAAQjnAEgGOEMAMEIZwAIRjgDQDDCGQCCEc4AEIxwBoBghDMABCOcASAY4QwAwQhnAAhGOANAMMIZAIIRzgAQjHAGgGCEMwAEI5wBIBjhDADBCGcACEY4A0AwwhkAghHOABCMcAaAYIQzAAQjnAEgGOEMAMEIZwAIRjgDQDDCGXb29PR0VWs6+vYB4Qyj1gyhdFu5WiK3vbTmym1rqIDlhDNk5EKnWzVy609Vrdw2hqpWbhtTBSwjnCGRC5tclcqtO1U1cutPVancuqUFzCecoSMXMmM1JbdOaZXIrVdaU3Lr1BYwj3CGjlzATNWY3PJNdeVeb6pEbr2munKvNzUlt05TObnlmgLmEc5wkQuXkhqSW7apnNxyTY3JLd9UTm65pobklm1qTG75poB6whkucsFSUkNqlm1EWr5m2a656wF9whkucsFSUkNqlm1EWr5m2a656wF9whkucsFSUkNyyzaVk1uuqTFbLl+zbNfc9YA+4QwduXCZqjG55Zvqyr3e1JTcOk3l5JZrakhu2abG5JZvCqgnnKEjFy5jNSW3TmmVyK3XVFfu9aam5NZpKie3XFPAPMIZErmQyVWp3LpTVSq3bmlNya1TW8A8whkyckHTrRq59aeqRm79qSqVW7e0gPmEMwzIBU5Tc+W2ldZcuW0NVa3cNqYKWEY4w862CrPcdtOaK7etoQKWE85wZ7YMzNy22wLWI5wBIBjhDADBCGcACEY4A0AwwhkAghHOABCMcAaAYIQzAAQjnAEgGOEMAMEIZwAIRjgDQDDCGQCCEc4AEIxwBoBghDMABCOcASAY4QwAwQhnAAhGOANAMMIZAIIRzgAQjHAGgGCEMwAEI5wBIBjhDADBCGcACEY4A0AwwhkAghHOABCMcAaAYIQzYfzP//6fUjctiEI4E0auWSq1Z0EUwpkwcs1SqT0LohDOhJFrlkrtWRCFcCaMXLNUas+CKIQzYWiW7Ml8IzLhTBiaJXsy34hMOBOGZsmezDciE86EoVmyJ/ONyIQzYWiW7Ml8IzLhTBiaJXsy34hMOBOGZsmezDciE86EoVmyJ/ONyIQzYWiW7Ml8IzLhTBiaJXsy34hMOBOGZsmezDciE86EoVmyJ/ONyIQzYRyrWf53+u2XP0/ffkjG/MMfpx9/+uf029+Xxc7L/ZwuU1I//HP667KF1G8//ZEs/8fp58/9Dfl3chzffvjz9PPv/yX7XX/8UeTGDVEIZ8I4TLP8/RzKmbH268/Tb+8L/3v6Mfv6VLXrpwa299O/l9eHVIzjHNJf+157/HHkxg1RCGfCOESz/PufgmBuqg2nle88zz8YZJefDMPKkP3cvztnuAXhTBhHaJa//dQf37df/u2F0F9//3v6+f2x81hYJoFXHGT99b791L+D//H3y2JZSTgnd9p/XT0NGHtUPnf8sXwd61dBFMKZMOI3y/Qucu6j25nh1rtrb8JzPHD7ppf965f+77KHw144w9aEM2HEb5ZpOJd8ECtnXrj1wvOyTv9OfuyHhYIgTx6ZC2e4HeFMGEdolulj7Sagf0webU+bE279db798t/HPxcHau2ds8facEvCmTAO0SxHPhD2rfcVqjEzwu3qkfbl39PQHdzWWDg3XwtLvp41OibhDFsTzoRxmGY58YntJqTHw6o+3HKPtFv9u/mhO94knEdr6nG9cIatCWfCOFazPN9tXv3PQLq15qe1+8t/PtJuJY+2r15/VxbOZXf/whm2JpwJ45jN8r+PryF1w6qtwU9PV4ZbL3xzd7Ulj7YL75yLglY4w9aEM2EcvVmmX0UavnuuC7frD6FNVUGAf/7gkHkCMPhDRUs4w9aEM2HcQ7Ms+/1vTbjV/K74q64fbQ+FcyMZj985w80JZ8K4h2ZZ9r3jinBLfp9cXum+x8L5LN3P6N2zcIatCWfCiN8sPwKu+dDU+19v6t1dZr6ONBhw5eFWFvYf0sff/e88T4RzOqbRu2fhDFsTzoQRvlkW/9GLptYIt6lATYze/U5vK/2def5T3w3hDFsTzoQRv1kmATdYK/3ONgnb8T9s0UjH173TLgn6sfW7hDNsTTgTxiGa5ftfnWq+OnX9HedvP/z58bj7suiwsnDrPaY+LzP2SLvV/+R194eEfvA2f00rZ3j9LuEMWxPOhKFZsifzjciEM2FoluzJfCMy4UwYmiV7Mt+ITDgThmbJnsw3IhPOhKFZsifzjciEM2FoluzJfCMy4UwYmiV7Mt+ITDgThmbJnsw3IhPOhKFZsifzjciEM2FoluzJfCMy4UwYmiV7Mt+ITDgThmbJnsw3IhPOhJFrlkrtWRCFcCaMXLNUas+CKIQzYeSapVJ7FkQhnAkj1yyV2rMgCuFMGLlmqdSeBVEIZwAIRjgDQDDCGQCCEc4AEIxwBoBghDMABCOcASAY4QwAwQhnAAhGOANAMMIZAIIRzgAQjHAGgGCEMwAEI5wBIBjhDADBCGcACEY4A0AwwhkAghHOABCMcAaAYIQzAAQjnAEgGOEMAMEIZwAIRjgDQDDCGQCCEc4AEIxwBoBghDMABCOcASAY4QwAwQhnAAhGOANAMMIZAIIRzgAQjHAGgGCEMwAEI5wBIBjhDADBCGcACEY4A0AwwhkAghHOABCMcAaAYIQzAAQjnAEgGOEMAMEIZwAIRjgDQDBV4ayUUkqpfSrnKpwBgNsSzgAQjHAGgGCEMwAEI5wBIBjhDAChnE7/DwhKwxZCaik4AAAAAElFTkSuQmCC;sketch=0;imageBorder=#9933FF;" vertex="1" parent="1">
+          <mxGeometry x="780" y="1410" width="276.33" height="202" as="geometry" />
+        </mxCell>
+        <mxCell id="_Lmz1EniNpuTVr8hItRH-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;entryX=0.847;entryY=0.909;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_Lmz1EniNpuTVr8hItRH-22" target="cT1v0p82_hHykwt6ooq_-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="1970" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="530" y="1960" />
+              <mxPoint x="530" y="1869" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_Lmz1EniNpuTVr8hItRH-22" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,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;imageBorder=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="832.5" y="1710" width="580" height="266.35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
